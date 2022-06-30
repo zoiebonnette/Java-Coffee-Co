@@ -32,3 +32,9 @@ Milk.java, HotWater.java, Espresso.java, Sugar.java, and WhippedCream.java all e
 -The third method is addTopping which takes in a coffee and adds the respective topping to the existing coffee
   
 -The fourth method is the Cost method, that holds the cost for each topping and adds it to the existing cost of the coffee
+
+inventory.txt keeps track of the inventory 
+
+logFile.txt keeps track of the history of orders
+
+Main.java is the main code runner and calls most of the .java files listed before. It is responsible for taking in a users input, putting the order into the logFile.txt, keeping track of the inventory and removing items from inventory, and prompting the user for responses needed to progress through the program.
