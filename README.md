@@ -1,6 +1,20 @@
 # Java-Coffee-Co
 Coffee ordering system for CS160 Lab final project
 
+HOW TO RUN:
+
+Run the program and input "1", "2", "3", "4", etc. in accordance to the directions displayed 
+
+inputting "e" will exit from the ordering system and inputting "5" will shut down the cafe application
+
+AUTHOR:
+
+Zoie Bonnette
+
+Contact at zbonnette4380@sdsu.edu 
+
+DESCRIPTION OF EACH .JAVA FILE:
+
 Coffee.java is an interface that includes the methods addTopping, Cost, and printCoffee.
 
 CoffeeDecorator.java implements Coffee.java and declares the constructor Coffee coffee and has four methods CoffeeDecorator, addTopping, printCoffee, and Cost.
