@@ -1,0 +1,15 @@
+Black Coffee = 0
+Milk = 9
+HotWater = 38
+Espresso = 6
+Sugar = 18
+WhippedCream = 88
+PlainBagel = 10
+EverythingBagel = 9
+SesameSeedBagel = 9
+BlueberryMuffin = 9
+ChocolateChipMuffin = 9
+CinnamonMuffin = 10
+GlazedDonut = 9
+SprinkleDonut = 8
+ChocolateDonut = 8

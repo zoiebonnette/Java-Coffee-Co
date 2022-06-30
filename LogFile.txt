@@ -1,0 +1,225 @@
+
+
+Writing orders from stack 2022-06-28 at 14:45:46 PDTRECEIPT: 
+Item 1: A black coffee with milk | Cost: 1.00
+Item 2: A black coffee add sugar | Cost: 0.90
+Item 3: A black coffee add espresso | Cost: 1.20
+TOTAL COST OF ORDER: 3.10
+
+
+Writing orders from stack 2022-06-28 at 14:45:47 PDT
+
+Writing orders from stack 2022-06-28 at 14:48:29 PDTRECEIPT: 
+Item 1: A black coffee add hot water | Cost: 0.85
+Item 2: A black coffee add sugar | Cost: 0.90
+Item 3: A black coffee with whipped cream | Cost: 0.95
+Item 4: A black coffee with milk | Cost: 1.00
+Item 5: A black coffee add espresso | Cost: 1.20
+Item 6: A black coffee with milk | Cost: 1.00
+Item 7: A black coffee add hot water | Cost: 0.85
+Item 8: A black coffee add espresso | Cost: 1.20
+Item 9: A black coffee add sugar | Cost: 0.90
+Item 10: A black coffee with whipped cream | Cost: 0.95
+TOTAL COST OF ORDER: 9.80
+
+
+Writing orders from stack 2022-06-28 at 14:48:38 PDT
+
+Writing orders from stack 2022-06-28 at 14:50:23 PDTRECEIPT: 
+Item 1: A black coffee with milk | Cost: 1.00
+Item 2: A black coffee add hot water | Cost: 0.85
+Item 3: A black coffee add espresso | Cost: 1.20
+Item 4: A black coffee add sugar | Cost: 0.90
+TOTAL COST OF ORDER: 3.95
+
+
+Writing orders from stack 2022-06-28 at 14:50:36 PDTRECEIPT: 
+Item 1: A black coffee with milk | Cost: 1.00
+Item 2: A black coffee add hot water | Cost: 0.85
+Item 3: A black coffee add espresso | Cost: 1.20
+Item 4: A black coffee add sugar | Cost: 0.90
+TOTAL COST OF ORDER: 3.95
+
+
+Writing orders from stack 2022-06-28 at 14:50:37 PDT
+
+Writing orders from stack 2022-06-28 at 14:54:04 PDTRECEIPT: 
+TOTAL COST OF ORDER: 0.00
+
+
+Writing orders from stack 2022-06-28 at 21:52:25 PDTRECEIPT: 
+TOTAL COST OF ORDER: 0.00
+
+
+Writing orders from stack 2022-06-28 at 22:12:25 PDTRECEIPT: 
+Item 1: A black coffee | Cost: 0.85
+TOTAL COST OF ORDER: 0.85
+
+
+Writing orders from stack 2022-06-28 at 22:13:58 PDTRECEIPT: 
+Item 1: A black coffee | Cost: 0.85
+Item 2: A black coffee | Cost: 0.85
+Item 3: A black coffee | Cost: 0.85
+Item 4: A black coffee add sugar | Cost: 0.90
+Item 5: A black coffee | Cost: 0.85
+Item 6: A black coffee add espresso | Cost: 1.20
+TOTAL COST OF ORDER: 5.50
+
+
+Writing orders from stack 2022-06-28 at 22:14:00 PDT
+
+Writing orders from stack 2022-06-29 at 10:53:29 PDTRECEIPT: 
+Item 1: A black coffee add hot water | Cost: 0.85
+Item 2: A black coffee add espresso | Cost: 1.20
+Item 3: A black coffee with milk | Cost: 1.00
+Item 4: A black coffee add sugar | Cost: 0.90
+Item 5: A black coffee with whipped cream | Cost: 0.95
+Item 6: A black coffee with milk | Cost: 1.00
+Item 7: A black coffee add hot water | Cost: 0.85
+Item 8: A black coffee add espresso | Cost: 1.20
+Item 9: A black coffee add sugar | Cost: 0.90
+Item 10: A black coffee with whipped cream | Cost: 0.95
+Item 11: A black coffee with milk | Cost: 1.00
+Item 12: A black coffee add hot water | Cost: 0.85
+TOTAL COST OF ORDER: 11.65
+
+
+Writing orders from stack 2022-06-29 at 10:53:32 PDT
+
+Writing orders from stack 2022-06-29 at 10:57:22 PDTRECEIPT: 
+Item 1: A black coffee with milk | Cost: 1.00
+TOTAL COST OF ORDER: 1.00
+
+
+Writing orders from stack 2022-06-29 at 11:02:35 PDTRECEIPT: 
+Item 1: A black coffee add hot water | Cost: 0.85
+TOTAL COST OF ORDER: 0.85
+
+
+Writing orders from stack 2022-06-29 at 11:02:37 PDT
+
+Writing orders from stack 2022-06-29 at 11:03:23 PDTRECEIPT: 
+Item 1: A black coffee with whipped cream | Cost: 0.95
+TOTAL COST OF ORDER: 0.95
+
+
+Writing orders from stack 2022-06-29 at 11:04:43 PDTRECEIPT: 
+Item 1: A black coffee add espresso | Cost: 1.20
+Item 2: A black coffee with whipped cream | Cost: 0.95
+TOTAL COST OF ORDER: 2.15
+RECEIPT: 
+Item 1: A black coffee add espresso | Cost: 1.20
+TOTAL COST OF ORDER: 1.20
+RECEIPT: 
+TOTAL COST OF ORDER: 0.00
+
+
+Writing orders from stack 2022-06-30 at 11:02:08 PDT
+
+Writing orders from stack 2022-06-30 at 11:09:34 PDT
+
+Writing orders from stack 2022-06-30 at 11:54:33 PDT
+
+Writing orders from stack 2022-06-30 at 12:09:41 PDT[RECEIPT: 
+Item 1: Sesame seed bagel | Cost: 1.15
+Item 2: Sprinkled donut | Cost: 1.00
+TOTAL COST OF ORDER: 2.15
+]
+
+Writing orders from stack 2022-06-30 at 12:18:04 PDT[RECEIPT: 
+Item 1: Sprinkled donut | Cost: 1.00
+TOTAL COST OF ORDER: 1.00
+]
+
+Writing orders from stack 2022-06-30 at 12:23:42 PDT[]RECEIPT: 
+Item 1: Chocolate donut | Cost: 1.00
+Item 2: A black coffee add espresso | Cost: 1.20
+TOTAL COST OF ORDER: 2.20
+[RECEIPT: 
+TOTAL COST OF ORDER: 0.00
+]
+
+Writing orders from stack 2022-06-30 at 13:21:50 PDT[]RECEIPT: 
+TOTAL COST OF ORDER: 0.00
+
+
+Writing orders from stack 2022-06-30 at 13:23:45 PDT[RECEIPT: 
+Item 1: A black coffee with whipped cream | Cost: 0.95
+Item 2: A black coffee with milk | Cost: 1.00
+Item 3: Chocolate donut | Cost: 1.00
+Item 4: Blueberry muffin | Cost: 0.75
+TOTAL COST OF ORDER: 3.70
+]RECEIPT: 
+Item 1: A black coffee with whipped cream | Cost: 0.95
+TOTAL COST OF ORDER: 0.95
+
+
+Writing orders from stack 2022-06-30 at 13:23:46 PDT
+
+Writing orders from stack 2022-06-30 at 13:38:41 PDT
+RECEIPT: 
+Item 1: Everything bagel | Cost: 1.15
+Item 2: A black coffee add sugar | Cost: 0.90
+TOTAL COST OF ORDER: 2.05
+[RECEIPT: 
+TOTAL COST OF ORDER: 0.00
+]
+
+Writing orders from stack 2022-06-30 at 13:43:25 PDT
+[RECEIPT: 
+Item 1: A black coffee add espresso | Cost: 1.20
+Item 2: A black coffee with whipped cream | Cost: 0.95
+Item 3: Sprinkled donut | Cost: 1.00
+TOTAL COST OF ORDER: 3.15
+]RECEIPT: 
+Item 1: A black coffee add espresso | Cost: 1.20
+TOTAL COST OF ORDER: 1.20
+
+
+Writing orders from stack 2022-06-30 at 13:44:06 PDT
+
+Writing orders from stack 2022-06-30 at 13:50:24 PDT
+RECEIPT: 
+TOTAL COST OF ORDER: 0.00
+
+Writing orders from stack 2022-06-30 at 13:52:40 PDT
+RECEIPT: 
+TOTAL COST OF ORDER: 0.00
+RECEIPT: 
+TOTAL COST OF ORDER: 0.00
+
+Writing orders from stack 2022-06-30 at 13:55:49 PDT
+RECEIPT: 
+TOTAL COST OF ORDER: 0.00
+RECEIPT: 
+TOTAL COST OF ORDER: 0.00
+
+Writing orders from stack 2022-06-30 at 13:58:38 PDT
+RECEIPT: 
+TOTAL COST OF ORDER: 0.00
+
+Writing orders from stack 2022-06-30 at 14:01:49 PDT
+RECEIPT: 
+Item 1: A black coffee with milk | Cost: 1.00
+TOTAL COST OF ORDER: 1.00
+
+Writing orders from stack 2022-06-30 at 14:02:05 PDT
+RECEIPT: 
+TOTAL COST OF ORDER: 0.00
+
+Writing orders from stack 2022-06-30 at 14:02:43 PDT
+[RECEIPT: 
+Item 1: A black coffee add espresso | Cost: 1.20
+TOTAL COST OF ORDER: 1.20
+]RECEIPT: 
+TOTAL COST OF ORDER: 0.00
+RECEIPT: 
+TOTAL COST OF ORDER: 0.00
+
+Writing orders from stack 2022-06-30 at 14:27:53 PDT
+RECEIPT: 
+TOTAL COST OF ORDER: 0.00
+
+Writing orders from stack 2022-06-30 at 15:21:27 PDT
+RECEIPT: 
+TOTAL COST OF ORDER: 0.00
